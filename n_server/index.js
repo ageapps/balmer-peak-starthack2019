@@ -4,7 +4,7 @@ const os = require('os')
 
 
 const MQTT_SERVER = "82.165.25.152"
-const MQTT_PORT = 1883
+const MQTT_PORT = 1884
 const DATABASE_NAME = "starthack"
 const SIGNALS = [
   '/signal/ESP_v_Signal/#',
